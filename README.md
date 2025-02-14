@@ -1,6 +1,6 @@
 # Regalo para San Valentin 
 Autor propio: 🧑‍💻
-  - [¡Luis Flores!](https://github.com/silva-mag) 
+  - [¡Franklin Silva!](https://github.com/silva-mag) 
 ## Incluye
 
 **Jueguito de atrapar corazones**
